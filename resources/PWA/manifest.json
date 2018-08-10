@@ -1,0 +1,33 @@
+{
+    "name": "My tasks",
+    "short_name": "Tasks",
+    "icons": [
+        {
+            "src": "/images/butwTQj.png",
+            "sizes": "16x16",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/atinuDl.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/2PMB3hT.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/mjHRnT1.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "theme_color": "#ffffff",
+    "start_url": "https://intentionstore.github.io/?from=A2HS&iDisableRedirect=1",
+    "orientation": "portrait",
+    "lang": "",
+    "description": "Create and log tasks"
+}
