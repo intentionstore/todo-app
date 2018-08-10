@@ -56,15 +56,21 @@ header input:-ms-input-placeholder {
 	color: rgba(255, 255, 255, 0.75);
 }
 header button {
-	display: none;
+    width: 50px;
+    height: 50px;
+    background: #fff;
+    border-radius: 7px;
+    position: absolute;
+    margin-left: -50px;
+    cursor: pointer;
 }
 header button svg {
-	width: 16px;
-	height: 16px;
+	width: 20px;
+	height: 20px;
 	position: absolute;
 	top: 50%;
 	left: 50%;
-	margin: -8px 0 0 -8px;
+	margin: -9px 0 0 -9px;
 }
 header button svg .fill {
 	fill: #25b99a;
